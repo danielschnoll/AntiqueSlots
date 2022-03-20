@@ -1,8 +1,8 @@
-.imageLink{
+.imageLink, .recentPurchase{
     color: brown;
     font-style: italic;
     text-decoration: none;
-    &:hover{
+    &.imageLink:hover{
         color: black;
     }
 }

@@ -15,6 +15,9 @@ class Image extends React.Component{
                         {this.props.isMachineForSale ?
                         <a className="imageLink" href="/"><br/>More Information {<ArrowRight/>}</a> :
                         ''}
+                        {this.props.isRecentPurchase ?
+                        <span className="recentPurchase"><br/>{this.props.purchase}</span> :
+                        ''}
                     </Card.Text>
                 </Card.Body>
             </Card>

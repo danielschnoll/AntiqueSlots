@@ -1,19 +1,24 @@
 import React from "react";
-import {Container, Row, Col} from "react-bootstrap";
+import Container from "react-bootstrap/Container";
 import Hero from '../containers/hero'
+import GridContainer from "../containers/gridContainer";
+
 
 class Home extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      data: require('../data/newPurchases.json')
+    }
+  }
+  
   render(){
     return (
       <div>
         <Hero/>
         <Container style={{marginTop: 75, marginBottom: 75}} className="text-center">
           <h1>Recent Purchases</h1>
-          <Row>
-            <Col md={4}>Machine 1</Col>
-            <Col md={4}>Machine 2</Col>
-            <Col md={4}>Machine 3</Col>
-          </Row>
+          <GridContainer data={this.state.data} isMachineForSale={false} isRecentPurchase={true}/>
         </Container>
       </div>
   );

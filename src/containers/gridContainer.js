@@ -11,7 +11,12 @@ class GridContainer extends React.Component {
         <Row style={{ padding: "40px 20px 40px 20px" }}>
           {this.props.data["list"].map((machine) => (
             <Col key={machine.name} lg={4}>
-              <Image name={machine.name} link={machine.link} isMachineForSale={this.props.isMachineForSale}/>
+              <Image name={machine.name} 
+                link={machine.link} 
+                purchase={machine.purchaseDate} 
+                isMachineForSale={this.props.isMachineForSale}
+                isRecentPurchase={this.props.isRecentPurchase}
+              />
             </Col>
           ))}
         </Row>
