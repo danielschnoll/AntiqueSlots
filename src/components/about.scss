@@ -1,0 +1,29 @@
+.intro{
+    font-weight: bold;
+    font-size: 24px;
+    @media only screen and (max-width: 400px){
+        .intro{
+            font-size: 18px;
+        }
+    }
+}
+.body{
+    font-size: 24px;
+    @media only screen and (max-width: 400px){
+        .intro{
+            font-size: 18px;
+        }
+    }
+}
+
+.aboutStyle{
+    width: 450px;
+    float: right;
+}
+@media only screen and (max-width: 450px){
+    .aboutStyle{
+        width: 300px;
+        margin:0 auto;
+        float: none;
+    }
+}

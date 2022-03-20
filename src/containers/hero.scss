@@ -1,0 +1,31 @@
+.carousel{
+    background-color: black;
+}
+.headerTitle{
+    font-size: 100px;
+    letter-spacing: 0.1ch;
+}
+.carousel-caption{
+    text-align: center;
+    top: 25vh;
+}
+@media only screen and (max-width: 400px){
+    .headerTitle{
+        font-size: 55px;
+        letter-spacing: 0.1ch;
+    }
+    .headerCaption{
+        font-size: 20px;
+    }
+    .carousel-caption{
+        text-align: center;
+        top: 18vh;
+    }
+}
+.image{
+    height: 100vh;
+    width: 100vw;
+    object-fit: cover;
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+}

@@ -1,0 +1,8 @@
+.imageLink{
+    color: brown;
+    font-style: italic;
+    text-decoration: none;
+    &:hover{
+        color: black;
+    }
+}
