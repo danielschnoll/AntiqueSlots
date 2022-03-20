@@ -11,7 +11,7 @@ class Navigation extends React.Component {
     return (
       <Navbar bg="dark" variant="dark" expand="lg">
         <Container>
-          <Navbar.Brand href="#home">
+          <Navbar.Brand href="/">
             <img
               alt=""
               src={"/logo.png"}
