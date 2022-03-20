@@ -1,112 +1,148 @@
 {
     "list": [
         {
-            "name": "JENNINGS 5C DUTCH BOY",
-            "link": "/images/slots/dutchboy5c.jpg"
+            "name": "MILLS 1c F.O.K. TWO COLUMN",
+            "link": "/images/slots/mills_1c_FOK_two_column.jpeg",
+            "metadata": ["mills", "5c", "fok"]
         },
         {
-            "name": "JENNINGS 5C CENTURY VENDOR",
-            "link": "/images/slots/jenningscenturyvendor5c.jpg"
+            "name": "MILLS 5c CASTLE FRONT",
+            "link": "/images/slots/mills_5c_castlefront.jpeg",
+            "metadata": ["mills", "5c", "castle front"]
         },
         {
-            "name": "WATLING 10C ROL-A-TOP",
-            "link": "/images/slots/rolatop.jpg"
+            "name": "JENNINGS 5c CENTURY VENDOR",
+            "link": "/images/slots/jennings_5c_century_vendor.jpeg",
+            "metadata": ["jennings", "5c", "century vendor"]
         },
         {
-            "name": "MILLS 5C HORSEHEAD BONUS",
-            "link": "/images/slots/horsehead5.jpg"
+            "name": "WATLING 10c ROL-A-TOP",
+            "link": "/images/slots/watling_10c_rolatop.jpeg",
+            "metadata": ["watling", "10c", "rol-a-top"]
         },
         {
-            "name": "JENNINGS 10C HUNTING SCENE",
-            "link": "/images/slots/huntingscene.jpg"
+            "name": "MILLS 5c HORSEHEAD BONUS",
+            "link": "/images/slots/mills_5c_horsehead.jpeg",
+            "metadata": ["mills", "5c", "horsehead bonus"]
         },
         {
-            "name": "MILLS 5C FOUR COLUMN FRONT VENDOR",
-            "link": "/images/slots/fourcolumn.jpg"
+            "name": "JENNINGS 10c HUNTING SCENE",
+            "link": "/images/slots/jennings_10c_hunting_scene.jpeg",
+            "metadata": ["jennings", "10c", "hunting scene"]
         },
         {
-            "name": "MILLS 5C CASTLE FRONT",
-            "link": "/images/slots/millscastlefront5c.jpg"
+            "name": "MILLS 5c FOUR COLUMN FRONT VENDOR",
+            "link": "/images/slots/mills_5c_four_column_front_vendor.jpeg",
+            "metadata": ["mills", "5c", "four column",  "front vendor"]
         },
+
         {
-            "name": "ILLINOIS MACHINE COMPANY - PUCK UPRIGHT SLOT MACHINE",
-            "link": "/images/slots/puck.jpg"
-        },
-        {
-            "name": "MILLS 5C ELK",
-            "link": "/images/slots/elk.jpg"
-        },
-        {
-            "name": "BALLY 25C RELIANCE",
-            "link": "/images/slots/reliance.jpg"
+            "name": "MILLS 5c ELK",
+            "link": "/images/slots/mills_5c_elk.jpeg",
+            "metadata": ["mills", "5c", "elk"]
         },
         {
             "name": "CAILLE 5C ARISTOCRAT",
-            "link": "/images/slots/aristocrat.jpg"
+            "link": "/images/slots/caille_5c_aristocrat.jpeg",
+            "metadata": ["caille", "5c", "aristocrat"]
+        },
+        {
+            "name": "ILLINOIS MACHINE COMPANY - PUCK UPRIGHT SLOT MACHINE",
+            "link": "/images/slots/illinois_machine_co_puck_upright.jpeg",
+            "metadata": ["puck", "upright"]
+        },
+
+
+        {
+            "name": "MILLS 5c FUTURITY",
+            "link": "/images/slots/mills_5c_futurity.jpeg",
+            "metadata": ["mills", "5c", "futurity"]
         },
         {
             "name": "BRADSHAW \"LITTLE STOCKBROKER\"",
-            "link": "/images/slots/stockbroker.jpg"
+            "link": "/images/slots/bradshaw_little_stockbroker.jpeg",
+            "metadata": ["bradshaw", "little stockbroker"]
+        },
+        {
+            "name": "BALLY 25c RELIANCE",
+            "link": "/images/slots/reliance.jpg",
+            "metadata": ["bally", "25c", "reliance"]
+        },
+
+        {
+            "name": "JENNINGS 25c VICTORIA",
+            "link": "/images/slots/jennings_25c_victoria.jpeg",
+            "metadata": ["jennings", "25c", "victoria"]
+        },
+        {
+            "name": "MILLS 25c POINSETTIA",
+            "link": "/images/slots/mills_25c_poinsettia.jpeg",
+            "metadata": ["mills", "25c", "poinsettia"]
+        },
+        {
+            "name": "MILLS 5c F.O.K. DOUBLE EAGLE",
+            "link": "/images/slots/mills_5c_fok_double_eagle.jpeg",
+            "metadata": ["mills", "5c", "fok", "double eagle"]
+        },
+        {
+            "name": "CAILLE 25c NAKED LADY",
+            "link": "/images/slots/caille_25c_naked_lady.jpeg",
+            "metadata": ["caille", "25c", "naked lady"]
+        },
+        {
+            "name": "JENNINGS 10c WILD INDIAN",
+            "link": "/images/slots/jennings_10c_wild_indian.jpeg",
+            "metadata": ["jennings", "10c", "wild indian"]
+        },
+        {
+            "name": "MILLS 25c 4-REEL HIGH TOP",
+            "link": "/images/slots/mills_25c_4_reel_high_top.jpeg",
+            "metadata": ["mills", "25c", "high top"]
+        },
+        {
+            "name": "JENNINGS 5c DUTCH BOY",
+            "link": "/images/slots/jennings_5c_dutch_boy.jpeg",
+            "metadata": ["mills", "5c", "dutch boy"]
+        },
+        {
+            "name": "WATLING 10c GOLD SEAL",
+            "link": "/images/slots/watling_10c_gold_seal.jpeg",
+            "metadata": ["watling", "10c", "gold seal"]
+        },
+        {
+            "name": "MILLS 5c HIGH TOP",
+            "link": "/images/slots/mills_5c_high_top.jpeg",
+            "metadata": ["mills", "5c", "high top"]
+        },
+        {
+            "name": "MILLS 10c GOLDEN FALLS",
+            "link": "/images/slots/mills_10c_golden_falls.jpeg",
+            "metadata": ["mills", "10c", "golden falls"]
+        },
+        {
+            "name": "JENNINGS 5c VICTORIA",
+            "link": "/images/slots/jennings_5c_victoria.jpeg",
+            "metadata": ["jennings", "5c", "victoria"]
+        },
+        {
+            "name": "PACE 5c BANTAM",
+            "link": "/images/slots/pace_5c_bantam.jpeg",
+            "metadata": ["pace", "5c", "bantam"]
+        },
+        {
+            "name": "MILLS 1c QT SWEETHEART",
+            "link": "/images/slots/mills_1c_qt_sweetheart.jpeg",
+            "metadata": ["mills", "1c", "qt", "sweetheart"]
+        },
+        {
+            "name": "MILLS 5c QT HASHMARK",
+            "link": "/images/slots/mills_5c_qt_hashmark.jpeg",
+            "metadata": ["mills", "5c", "qt", "hashmark"]
         },
         {
             "name": "MILLS 5C VEST POCKET",
-            "link": "/images/slots/millsvestpocket.jpg"
-        },
-        {
-            "name": "MILLS 25C LION FRONT",
-            "link": "/images/slots/lionfront.jpg"
-        },
-        {
-            "name": "MILLS 5C HIGH TOP",
-            "link": "/images/slots/hightop5c.jpg"
-        },
-        {
-            "name": "MILLS 10C GOLDEN FALLS",
-            "link": "/images/slots/goldenfalls10c.jpg"
-        },
-        {
-            "name": "JENNINGS 25C VICTORIA",
-            "link": "/images/slots/victoria25c.jpg"
-        },
-        {
-            "name": "PACE 5C BANTAM",
-            "link": "/images/slots/bantam.jpg"
-        },
-        {
-            "name": "JENNINGS 5C VICTORIA",
-            "link": "/images/slots/victoria5c.jpg"
-        },
-        {
-            "name": "MILLS 25C POINSETTIA",
-            "link": "/images/slots/poinsettia.jpg"
-        },
-        {
-            "name": "MILLS 5C FOK",
-            "link": "/images/slots/fok.jpg"
-        },
-        {
-            "name": "CAILLE 25C SUPERIOR",
-            "link": "/images/slots/superior.jpg"
-        },
-        {
-            "name": "JENNINGS 10C WILD INDIAN",
-            "link": "/images/slots/wildindian.jpg"
-        },
-        {
-            "name": "MILLS 25C 4-REEL HIGH TOP",
-            "link": "/images/slots/4reelhightop.jpg"
-        },
-        {
-            "name": "WATLING 5C GOLD SEAL",
-            "link": "/images/slots/goldseal.jpg"
-        },
-        {
-            "name": "MILLS 5C QT DIAL",
-            "link": "/images/slots/qtdial.jpg"
-        },
-        {
-            "name": "MILLS 1C QT SWEETHEART",
-            "link": "/images/slots/qtsweetheart.jpg"
+            "link": "/images/slots/mills_5c_vest_pocket.jpeg",
+            "metadata": ["mills", "5c", "vest pocket"]
         }
     ]
 }
