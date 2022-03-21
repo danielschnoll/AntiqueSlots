@@ -1,8 +1,156 @@
 {
     "list": [
         {
-            "name": "Jennings Grandstand Trade Stimulator",
-            "link": "/images/tradestimulators/jennings_grandstand.jpg"
+            "name": "COLUMBIA MFG. \"SUCCESS\" CAST IRON CIGAR TRADE STIMULATOR",
+            "link": "/images/tradestimulators/columbiamfgsuccess.jpeg",
+            "metadata":["columbia", "success", "cigar", "cigarette", "card"]
+        },
+        {
+            "name": "CAILLE JUMBO CAST IRON TRADE STIMULATOR",
+            "link": "/images/tradestimulators/caillejumbo.jpeg",
+            "metadata":["caille", "jumbo", "card"]
+        },
+
+
+        {
+            "name": "DAVAL \"21\"",
+            "link": "/images/tradestimulators/daval21.jpeg",
+            "metadata":["daval", "21", "poker"]
+        },
+        {
+            "name": "DAVAL HEADS AND TAILS",
+            "link": "/images/tradestimulators/davalheadstails.jpeg",
+            "metadata":["daval", "heads and tails", "cigarette"]
+        },
+        {
+            "name": "DAVAL MARVEL",
+            "link": "/images/tradestimulators/davalmarvel.jpeg",
+            "metadata":["daval", "21", "poker"]
+        },
+        {
+            "name": "DAVAL CHICAGO CLUBHOUSE",
+            "link": "/images/tradestimulators/davalchicagoclubhouse.jpeg",
+            "metadata":["daval", "chicago clubhouse", "poker", "card"]
+        },
+        {
+            "name": "CHICAGO MINT PURITAN CONFECTION VENDOR",
+            "link": "/images/tradestimulators/chicagomintpuritanconfection.jpeg",
+            "metadata":["chicago mint", "puritan", "confection", "vendor", "baby bell", "bell"]
+        },
+
+
+        {
+            "name": "GROETCHEN 5c LIBERTY",
+            "link": "/images/tradestimulators/groetchenliberty.jpeg",
+            "metadata":["groetchen", "liberty", "baby bell"]
+        },
+        {
+            "name": "J.M. SANDERS GEM VENDOR",
+            "link": "/images/tradestimulators/jmsandersgemvendor.jpeg",
+            "metadata":["jm sanders", "sanders", "gem vendor", "vendor", "cigarette"]
+        },
+        {
+            "name": "PIERCE TOOL AND MFG. \"HIT ME\"",
+            "link": "/images/tradestimulators/piercetoolhitme.jpeg",
+            "metadata":["pierce", "tool", "mfg", "hit me", "cigarette", "vendor"]
+        },
+        {
+            "name": "GARDEN CITY PICK-A-PACK",
+            "link": "/images/tradestimulators/gardencitypickapack.jpeg",
+            "metadata":["garden", "city", "pick a pack", "cigarette"]
+        },
+        {
+            "name": "DAVAL 5C AMERICAN EAGLE",
+            "link": "/images/tradestimulators/daval5camericaneagle.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+
+        
+        {
+            "name": "GROETCHEN \"21\" TWENTY ONE",
+            "link": "/images/tradestimulators/groetchen21.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "DAVAL TALLY",
+            "link": "/images/tradestimulators/davaltally.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "JENNINGS LITTLE MERCHANT",
+            "link": "/images/tradestimulators/jenningslittlemerchant.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "WITHEY SEVEN GRAND",
+            "link": "/images/tradestimulators/witheysevengrand.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "SPECIALTY NO. 5 POOL SHOOTER",
+            "link": "/images/tradestimulators/specialtypoolshooter.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "PEO MFG. BARNYARD GOLF",
+            "link": "/images/tradestimulators/peobarnyardgolf.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "CHICAGO MINT \"TRY IT\" DICE SPINNER GUM VENDOR",
+            "link": "/images/tradestimulators/chicagominttryit.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "MILLS 5c PURITAN BELL",
+            "link": "/images/tradestimulators/millspuritan5c.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "WITHEY SEVEN GRAND",
+            "link": "/images/tradestimulators/witheysevengrand2.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "WHITING SCULPT-O-SCOPE",
+            "link": "/images/tradestimulators/whitingsculptoscope.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "VICTOR VENDING HOME RUN BASEBALL SHOOTER",
+            "link": "/images/tradestimulators/victorvendinghomerunbaseball.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "RADIO MIDGET SMOKER (MFG. UNKNOWN)",
+            "link": "/images/tradestimulators/radiomidgetsmoker.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "MULTICOIN PLAY \"21\" COIN DROPPER",
+            "link": "/images/tradestimulators/multicoinplay21coindropper.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "ROCKOLA HOLD AND DRAW",
+            "link": "/images/tradestimulators/rockolaholdanddraw.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "IRVING KAYE \"STEEPLECHASE\" SKILL GAME",
+            "link": "/images/tradestimulators/steeplechase.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "PIERCE TOOL AND MFG. FOUR LEAF CLOVER",
+            "link": "/images/tradestimulators/piercefourleafclover.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+        {
+            "name": "TARGET SKILL PENNY SHOOTER GAME",
+            "link": "/images/tradestimulators/targetskillpennyshooter.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
         }
+
     ]
 }
