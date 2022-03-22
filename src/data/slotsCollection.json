@@ -65,8 +65,13 @@
         },
         {
             "name": "BALLY 25c RELIANCE",
-            "link": "/images/slots/reliance.jpg",
+            "link": "/images/slots/ballyreliance.jpeg",
             "metadata": ["bally", "25c", "reliance"]
+        },
+        {
+            "name": "MILLS 5c QT DIAL",
+            "link": "/images/slots/mills_5c_qt_dial.jpeg",
+            "metadata": ["mills", "5c", "qt", "dial"]
         },
 
         {
@@ -133,6 +138,11 @@
             "name": "MILLS 1c QT SWEETHEART",
             "link": "/images/slots/mills_1c_qt_sweetheart.jpeg",
             "metadata": ["mills", "1c", "qt", "sweetheart"]
+        },
+        {
+            "name": "MILLS 10c QT CHEVRON",
+            "link": "/images/slots/mills_10c_qt_chevron.jpeg",
+            "metadata": ["mills", "1c", "qt", "chevron"]
         },
         {
             "name": "MILLS 5c QT HASHMARK",

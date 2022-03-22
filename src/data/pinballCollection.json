@@ -2,39 +2,53 @@
     "list": [
         {
             "name": "WILLIAMS CYCLONE",
-            "link": "/images/pinball/cyclone.jpg"
+            "link": "/images/pinball/cyclone.jpeg",
+            "metadata": ["williams", "cyclone", "solid state"]
         },
         {
-            "name": "GOTTLIEB BUCKAROO",
-            "link": "/images/pinball/buckaroo.jpg"
+            "name": "GOTTLIEB LUCKY HAND",
+            "link": "/images/pinball/luckyhand.jpeg",
+            "metadata": ["gottlieb", "lucky hand", "cards", "em", "wedge head"]
         },
         {
             "name": "GOTTLIEB BANK-A-BALL",
-            "link": "/images/pinball/bankaball.jpg"
+            "link": "/images/pinball/bankaball.jpeg",
+            "metadata": ["gottlieb", "bank a ball", "em", "wedge head"]
         },
         {
             "name": "GOTTLIEB CROSS TOWN",
-            "link": "/images/pinball/crosstown.jpg"
+            "link": "/images/pinball/crosstown.jpg",
+            "metadata": ["gottlieb", "cross town", "em", "wedge head", "*"]
         },
         {
             "name": "CHICAGO COIN'S PAR GOLF",
-            "link": "/images/pinball/pargolf.jpg"
+            "link": "/images/pinball/pargolf.jpeg",
+            "metadata": ["chicago coin", "par golf", "golf", "em"]
         },
         {
             "name": "SOUTHLAND ENGINEERING'S LITTLE PRO",
-            "link": "/images/pinball/littlepro.jpg"
+            "link": "/images/pinball/littlepro.jpeg",
+            "metadata": ["southland engineering", "little pro", "golf", "em"]
         },
         {
             "name": "GOTTLIEB'S ALLSTAR BASKETBALL",
-            "link": "/images/pinball/allstar.jpg"
+            "link": "/images/pinball/allstarbasketball.jpeg",
+            "metadata": ["gottlieb", "all star basketball", "basketball", "em", "woodrail"]
         },
         {
-            "name": "GOTTLIEB'S DRAGONETTE",
-            "link": "/images/pinball/dragonette.jpg"
+            "name": "WILLIAMS TEN-STRIKE",
+            "link": "/images/pinball/tenstrike.jpeg",
+            "metadata": ["williams", "ten strike", "bowling", "em", "woodrail"]
         },
         {
-            "name": "WILLIAMS TEN STRIKE",
-            "link": "/images/pinball/tenstrike.jpg"
+            "name": "GOTTLIEB'S KING OF DIAMONDS",
+            "link": "/images/pinball/kingofdiamonds.jpeg",
+            "metadata": ["gottlieb", "king of diamonds", "cards", "em", "wedge head"]
+        },
+        {
+            "name": "GOTTLIEB GRAND SLAM",
+            "link": "/images/pinball/grandslam.jpeg",
+            "metadata": ["gottlieb", "grand slam", "baseball", "em", "woodrail"]
         }
     ]
 }

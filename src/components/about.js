@@ -17,16 +17,15 @@ class About extends React.Component {
           <Row>
             <Col md={6}>
               <p className="intro">
-                HELLO, MY NAME IS KEN!
+                HEY! MY NAME IS KEN SCHNOLL, AND WELCOME TO ANTIQUE SLOTS!
               </p>
               <p className="body">
-                I HAVE BEEN BUYING, SELLING, AND COLLECTING <strong>ANTIQUE SLOT MACHINES, PINBALL MACHINES,
-                TRADE STIMULATORS, ARCADE GAMES, AND OTHER VINTAGE COIN-OPERATED MACHINES </strong>
+                I HAVE BEEN BUYING, SELLING, AND COLLECTING <strong><i>ANTIQUE SLOT MACHINES, PINBALL MACHINES,
+                TRADE STIMULATORS, ARCADE GAMES, AND OTHER VINTAGE COIN-OPERATED MACHINES </i></strong>
                 FOR OVER 45 YEARS!
               </p>
               <p className="body">
-                FEEL FREE TO CONTACT ME BELOW AND LET ME KNOW WHAT YOU HAVE, OR IF THERE ARE
-                ANY MACHINES YOU ARE INTERESTED IN.
+                WE ARE ALWAYS BUYING MACHINES, FEEL FREE TO CONTACT ME BELOW AND LET ME KNOW WHAT YOU HAVE!
               </p>
               <p className="body">
                 <Card border="dark">
@@ -44,28 +43,28 @@ class About extends React.Component {
                 <Carousel fade className ="aboutStyle">
                   <Carousel.Item interval={5000}>
                     <img
-                      src="/images/about/rolatop.jpg"
+                      src="/images/about/rolatop.jpeg"
                       alt="Watling 10c Rol-A-Top Slot Machine"
                       className ="aboutStyle"
                     />
                   </Carousel.Item>
                   <Carousel.Item interval={5000}>
                     <img
-                      src="/images/about/bankaball.jpg"
+                      src="/images/about/bankaball.jpeg"
                       alt="Gottlieb Bank-A-Ball Pinball Machine"
                       className ="aboutStyle"
                     />
                   </Carousel.Item>
                   <Carousel.Item interval={5000}>
                     <img
-                      src="/images/about/puck.jpg"
+                      src="/images/about/puck.jpeg"
                       alt="Illinois Machine Co. - 5c Puck Upright Slot Machine"
                       className ="aboutStyle"
                     />
                   </Carousel.Item>
                   <Carousel.Item interval={5000}>
                     <img
-                      src="/images/about/cyclone.jpg"
+                      src="/images/about/cyclone.jpeg"
                       alt="Williams Cyclone Pinball Machine"
                       className ="aboutStyle"
                     />

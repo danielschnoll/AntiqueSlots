@@ -1,8 +1,315 @@
 {
     "list": [
         {
-            "name": "Jennings Grandstand Trade Stimulator",
-            "link": "/images/tradestimulators/jennings_grandstand.jpg"
+            "name": "COLUMBIA MFG. \"SUCCESS\" CAST IRON CIGAR TRADE STIMULATOR",
+            "link": "/images/tradestimulators/columbiamfgsuccess.jpeg",
+            "metadata":["columbia", "success", "cigar", "cigarette", "card"]
+        },
+        {
+            "name": "CAILLE JUMBO CAST IRON TRADE STIMULATOR",
+            "link": "/images/tradestimulators/caillejumbo.jpeg",
+            "metadata":["caille", "jumbo", "card"]
+        },
+
+
+        {
+            "name": "DAVAL \"21\"",
+            "link": "/images/tradestimulators/daval21.jpeg",
+            "metadata":["daval", "21", "poker"]
+        },
+        {
+            "name": "DAVAL HEADS AND TAILS",
+            "link": "/images/tradestimulators/davalheadstails.jpeg",
+            "metadata":["daval", "heads and tails", "cigarette"]
+        },
+        {
+            "name": "DAVAL MARVEL",
+            "link": "/images/tradestimulators/davalmarvel.jpeg",
+            "metadata":["daval", "21", "poker"]
+        },
+        {
+            "name": "DAVAL CHICAGO CLUBHOUSE",
+            "link": "/images/tradestimulators/davalchicagoclubhouse.jpeg",
+            "metadata":["daval", "chicago clubhouse", "poker", "card"]
+        },
+        {
+            "name": "CHICAGO MINT PURITAN CONFECTION VENDOR",
+            "link": "/images/tradestimulators/chicagomintpuritanconfection.jpeg",
+            "metadata":["chicago mint", "puritan", "confection", "vendor", "baby bell", "bell"]
+        },
+
+
+        {
+            "name": "GROETCHEN 5c LIBERTY",
+            "link": "/images/tradestimulators/groetchenliberty.jpeg",
+            "metadata":["groetchen", "liberty", "baby bell"]
+        },
+        {
+            "name": "J.M. SANDERS GEM VENDOR",
+            "link": "/images/tradestimulators/jmsandersgemvendor.jpeg",
+            "metadata":["jm sanders", "sanders", "gem vendor", "vendor", "cigarette"]
+        },
+        {
+            "name": "PIERCE TOOL AND MFG. \"HIT ME\"",
+            "link": "/images/tradestimulators/piercetoolhitme.jpeg",
+            "metadata":["pierce", "tool", "mfg", "hit me", "cigarette", "card", "vendor"]
+        },
+        {
+            "name": "GARDEN CITY PICK-A-PACK",
+            "link": "/images/tradestimulators/gardencitypickapack.jpeg",
+            "metadata":["garden", "city", "pick a pack", "cigarette", "spinner"]
+        },
+        {
+            "name": "DAVAL 5C AMERICAN EAGLE",
+            "link": "/images/tradestimulators/daval5camericaneagle.jpeg",
+            "metadata":["daval", "5c", "american", "eagle", "baby bell", "bell"]
+        },
+
+        
+        {
+            "name": "GROETCHEN \"21\" TWENTY ONE",
+            "link": "/images/tradestimulators/groetchen21.jpeg",
+            "metadata":["groetchen", "21", "twenty one", "poker", "card"]
+        },
+        {
+            "name": "DAVAL TALLY",
+            "link": "/images/tradestimulators/davaltally.jpeg",
+            "metadata":["daval", "tally"]
+        },
+        {
+            "name": "JENNINGS LITTLE MERCHANT",
+            "link": "/images/tradestimulators/jenningslittlemerchant.jpeg",
+            "metadata":["jennings", "little", "merchant", "cigarette"]
+        },
+        {
+            "name": "WITHEY SEVEN GRAND",
+            "link": "/images/tradestimulators/witheysevengrand.jpeg",
+            "metadata":["withey", "seven", "grand", "dice", "spinner"]
+        },
+        {
+            "name": "SPECIALTY NO. 5 POOL SHOOTER",
+            "link": "/images/tradestimulators/specialtypoolshooter.jpeg",
+            "metadata":["specialty", "pool", "shooter", "skill", "vendor", "gumball"]
+        },
+        {
+            "name": "PEO MFG. BARNYARD GOLF",
+            "link": "/images/tradestimulators/peobarnyardgolf.jpeg",
+            "metadata":["peo", "mfg", "barnyard", "golf", "skill"]
+        },
+        {
+            "name": "CHICAGO MINT \"TRY IT\" DICE SPINNER GUM VENDOR",
+            "link": "/images/tradestimulators/chicagominttryit.jpeg",
+            "metadata":["chicago", "mint", "try it", "dice", "spinner", "gum", "vendor"]
+        },
+        {
+            "name": "MILLS 5c PURITAN BELL",
+            "link": "/images/tradestimulators/millspuritan5c.jpeg",
+            "metadata":["mills", "5c", "puritan", "bell", "baby bell"]
+        },
+        {
+            "name": "WITHEY SEVEN GRAND",
+            "link": "/images/tradestimulators/witheysevengrand2.jpeg",
+            "metadata":["withey", "seven", "grand", "dice", "spinner"]
+        },
+        {
+            "name": "WHITING SCULPT-O-SCOPE",
+            "link": "/images/tradestimulators/whitingsculptoscope.jpeg",
+            "metadata":["whiting", "sculpt o scope", "mutoscope", "card", "movie"]
+        },
+        {
+            "name": "VICTOR VENDING HOME RUN BASEBALL SHOOTER",
+            "link": "/images/tradestimulators/victorvendinghomerunbaseball.jpeg",
+            "metadata":["victor", "vending", "home", "run", "baseball", "shooter", "skill"]
+        },
+        {
+            "name": "RADIO MIDGET SMOKER (MFG. UNKNOWN)",
+            "link": "/images/tradestimulators/radiomidgetsmoker.jpeg",
+            "metadata":["radio", "midget", "smoker", "cigarette", "punch"]
+        },
+        {
+            "name": "MULTICOIN PLAY \"21\" COIN DROPPER",
+            "link": "/images/tradestimulators/multicoinplay21coindropper.jpeg",
+            "metadata":["multicoin", "play", "21", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "ROCKOLA HOLD AND DRAW",
+            "link": "/images/tradestimulators/rockolaholdanddraw.jpeg",
+            "metadata":["rockola", "hold", "draw", "card", "poker"]
+        },
+        {
+            "name": "IRVING KAYE \"STEEPLECHASE\" SKILL GAME",
+            "link": "/images/tradestimulators/steeplechase.jpeg",
+            "metadata":["irving", "kaye", "steeplechase", "skill"]
+        },
+        {
+            "name": "PIERCE TOOL AND MFG. FOUR LEAF CLOVER",
+            "link": "/images/tradestimulators/piercefourleafclover.jpeg",
+            "metadata":["pierce", "tool", "four", "leaf", "clover", "wheel", "baby bell", "baby", "bell"]
+        },
+        {
+            "name": "TARGET SKILL PENNY SHOOTER GAME",
+            "link": "/images/tradestimulators/targetskillpennyshooter.jpeg",
+            "metadata":["target", "skill", "penny", "shooter", "gun"]
+        },
+
+        
+        
+        {
+            "name": "HAMILTON DAISY CIGAR COIN DROP",
+            "link": "/images/tradestimulators/hamiltondaisycigarcoindropper.jpeg",
+            "metadata":["hamilton", "daisy", "cigar", "coin", "drop", "coin drop", "skill", "dropper", "cigarette"]
+        },
+        {
+            "name": "MILLS BELL BOY",
+            "link": "/images/tradestimulators/millsbellboy.jpeg",
+            "metadata":["mills", "bell", "boy", "baby bell", "gum"]
+        },
+        {
+            "name": "MILLS \"THE WIZARD\" FORTUNE TELLER",
+            "link": "/images/tradestimulators/millsthewizardfortuneteller.jpeg",
+            "metadata":["mills", "wizard", "fortune", "teller", "fortune teller", "wheel"]
+        },
+        {
+            "name": "PIERCE TOOL AND MFG. WHIRLWIND",
+            "link": "/images/tradestimulators/piercewhirlwind.jpeg",
+            "metadata":["pierce", "tool", "whirlwind","baby bell", "bell", "gum", "fortune"]
+        },
+        {
+            "name": "EARLY WOODEN PENNY SHOOTER GUN GAME",
+            "link": "/images/tradestimulators/pennyshooter.jpeg",
+            "metadata":["wooden", "target", "skill", "penny", "shooter", "gun"]
+        },
+        {
+            "name": "FILM-A-SCOPE BASKETBALL PENNY ARCADE",
+            "link": "/images/tradestimulators/filmascopebasketball.jpeg",
+            "metadata":["film a scope", "scope", "film", "basketball", "penny", "arcade", "skill"]
+        },
+        {
+            "name": "GROETCHEN PIKE'S PEAK",
+            "link": "/images/tradestimulators/groetchenpikespeak.jpeg",
+            "metadata":["groetchen", "pike", "peak", "skill", "game"]
+        },
+        {
+            "name": "GYPSY FORTUNE TELLER - PIERCE TOOL AND MFG.",
+            "link": "/images/tradestimulators/gypsyfortuneteller.jpeg",
+            "metadata":["gypsy", "fortune teller", "fortune", "teller", "pierce", "tool", "wheel"]
+        },
+        {
+            "name": "ADVANCE CO. ELECTRICITY 1C SHOCK MACHINE",
+            "link": "/images/tradestimulators/advancecoelectricity.jpeg",
+            "metadata":["advance", "electricity", "1c", "shock machine"]
+        },
+        {
+            "name": "DROBISCH STAR CIGAR",
+            "link": "/images/tradestimulators/drobischstarcigar.jpeg",
+            "metadata":["drobisch", "star", "cigar", "pointer", "dial", "cigarette"]
+        },
+        {
+            "name": "PEO BASEBALL TRADE STIMULATOR",
+            "link": "/images/tradestimulators/peobaseball.jpeg",
+            "metadata":["peo", "baseball", "skill"]
+        },
+        {
+            "name": "DAVAL PENNY PACK",
+            "link": "/images/tradestimulators/davalpennypack.jpeg",
+            "metadata":["daval", "penny", "pack", "cigarette"]
+        },
+
+
+
+        
+        {
+            "name": "ROCKOLA FOUR ACES",
+            "link": "/images/tradestimulators/rockolafouraces.jpeg",
+            "metadata":["rockola", "four aces", "skill", "coin", "drop", "coin drop", "dropper"]
+        },
+        {
+            "name": "LARK INDOOR STRIKER",
+            "link": "/images/tradestimulators/larkindoorstriker.jpeg",
+            "metadata":["lark", "indoor", "striker", "skill"]
+        },
+        {
+            "name": "MADAM MELBA FORTUNE TELLER",
+            "link": "/images/tradestimulators/madammelba.jpeg",
+            "metadata":["madam", "melba", "fortune", "teller", "fortune teller"]
+        },
+        {
+            "name": "20TH CENTURY SPIRAL COIN DROPPER",
+            "link": "/images/tradestimulators/20thcenturyspiral.jpeg",
+            "metadata":["20th century", "spiral", "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "WADDELL \"THE BICYCLE WHEEL\"",
+            "link": "/images/tradestimulators/waddellbicycle.jpeg",
+            "metadata":["waddell", "bicycle", "wheel", "pointer", "dial"]
+        },
+        {
+            "name": "DUNSTAN CIGAR SELLER",
+            "link": "/images/tradestimulators/dunstancigarseller.jpeg",
+            "metadata":["dunstan", "cigar", "seller", "pointer", "dial", "cigarette"]
+        },
+        {
+            "name": "E.E. JUNIOR \"PLAY FOOTBALL\"",
+            "link": "/images/tradestimulators/eejrplayfootball.jpeg",
+            "metadata":["ee junior", "play", "football", "skill"]
+        },
+
+
+        
+        {
+            "name": "5c COWPER CRACKER JACK COIN DROPPER",
+            "link": "/images/tradestimulators/cowpercrackerjack.jpeg",
+            "metadata":["5c", "cowper", "cracker", "jack",  "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "\"THE KELLEY\" BY KELLEY MFG.",
+            "link": "/images/tradestimulators/thekelley.jpeg",
+            "metadata":["the kelley", "kelley", "baby bell", "bell"]
+        },
+        {
+            "name": "KITZMILLER SALESMAN PENNY DROP",
+            "link": "/images/tradestimulators/kitzmillersalesman.jpeg",
+            "metadata":["kitzmiller", "salesman", "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "GRISWOLD WHEEL OF FORTUNE \"SELF PAY\"",
+            "link": "/images/tradestimulators/griswoldwheeloffortune.jpeg",
+            "metadata":["griswold", "wheel", "fortune", "self pay", "wheel of fortune", "pointer", "dial"]
+        },
+        {
+            "name": "TESTO REACTION METER",
+            "link": "/images/tradestimulators/testoreactionmeter.jpeg",
+            "metadata":["testo", "reaction", "meter", "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "COMSTOCK PERFECTION COIN DROPPER",
+            "link": "/images/tradestimulators/comstockperfection.jpeg",
+            "metadata":["comstock", "perfection", "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "NATIONAL INSTITUTE \"A GOOD TURN FOR THE BLIND\" SPINNER",
+            "link": "/images/tradestimulators/agoodturnspinner.jpeg",
+            "metadata":["national", "institute", "good turn", "for the blind", "spinner", "dial", "pointer"]
+        },
+        {
+            "name": "NATIONAL INSTITUTE \"A GOOD TURN FOR THE BLIND\" SPINNER (REPRO BASE)",
+            "link": "/images/tradestimulators/agoodturnspinner_repro.jpeg",
+            "metadata":["national", "institute", "good turn", "for the blind", "spinner", "dial", "pointer"]
+        },
+        {
+            "name": "MILLS PURITAN BELL",
+            "link": "/images/tradestimulators/millspuritanbell1.jpeg",
+            "metadata":["mills", "puritan", "bell", "baby bell"]
+        },
+        {
+            "name": "MILLS PURITAN BELL",
+            "link": "/images/tradestimulators/millspuritanbell2.jpeg",
+            "metadata":["mills", "puritan", "bell", "baby bell"]
+        },
+        {
+            "name": "MILLS PURITAN BELL",
+            "link": "/images/tradestimulators/millspuritanbell3.jpeg",
+            "metadata":["mills", "puritan", "bell", "baby bell"]
         }
     ]
 }
