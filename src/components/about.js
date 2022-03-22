@@ -17,7 +17,7 @@ class About extends React.Component {
           <Row>
             <Col md={6}>
               <p className="intro">
-                HEY, MY NAME IS KEN SCHNOLL. WELCOME TO ANTIQUE SLOTS!
+                HEY! MY NAME IS KEN SCHNOLL, AND WELCOME TO ANTIQUE SLOTS!
               </p>
               <p className="body">
                 I HAVE BEEN BUYING, SELLING, AND COLLECTING <strong><i>ANTIQUE SLOT MACHINES, PINBALL MACHINES,
