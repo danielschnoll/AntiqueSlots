@@ -17,16 +17,15 @@ class About extends React.Component {
           <Row>
             <Col md={6}>
               <p className="intro">
-                HELLO, MY NAME IS KEN!
+                HEY, MY NAME IS KEN SCHNOLL. WELCOME TO ANTIQUE SLOTS!
               </p>
               <p className="body">
-                I HAVE BEEN BUYING, SELLING, AND COLLECTING <strong>ANTIQUE SLOT MACHINES, PINBALL MACHINES,
-                TRADE STIMULATORS, ARCADE GAMES, AND OTHER VINTAGE COIN-OPERATED MACHINES </strong>
+                I HAVE BEEN BUYING, SELLING, AND COLLECTING <strong><i>ANTIQUE SLOT MACHINES, PINBALL MACHINES,
+                TRADE STIMULATORS, ARCADE GAMES, AND OTHER VINTAGE COIN-OPERATED MACHINES </i></strong>
                 FOR OVER 45 YEARS!
               </p>
               <p className="body">
-                FEEL FREE TO CONTACT ME BELOW AND LET ME KNOW WHAT YOU HAVE, OR IF THERE ARE
-                ANY MACHINES YOU ARE INTERESTED IN.
+                WE ARE ALWAYS BUYING MACHINES, FEEL FREE TO CONTACT ME BELOW AND LET ME KNOW WHAT YOU HAVE!
               </p>
               <p className="body">
                 <Card border="dark">
