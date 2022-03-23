@@ -6,7 +6,7 @@ import Button from "react-bootstrap/Button"
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
-import { PhoneVibrate, PinMap, EnvelopeCheck} from "react-bootstrap-icons";
+import { PhoneVibrate, PinMap, EnvelopeCheck, Facebook} from "react-bootstrap-icons";
 
 import "./contact.scss"
 
@@ -18,18 +18,51 @@ class Contact extends React.Component {
         <HalfHero title="CONTACT US" image="/images/home/banner/img2.jpg" />
         <Container flex>
           <Row style={{padding:"40px 20px 40px 20px"}}>
-            <Col lg={4}>
-              <PinMap className="iconStyle" size={80}/>
-              <span className="labelLocation">Location:<p>Mahwah, NJ</p></span>
+
+            <Col lg={3}>
+              <Row>
+                <Col>
+                  <PinMap className="iconStyle" size={80}/>
+                </Col>
+                <Col>
+                  <span className="label">Location:<p>Mahwah, NJ</p></span>
+                </Col>
+              </Row>
             </Col>
-            <Col lg={4}>
-              <PhoneVibrate className="iconStyle" size={80}/>
-              <span className="labelCall">Call:<p><a href="tel:2017882623">(201)-788-2623</a></p></span>
+
+            <Col lg={3}>
+              <Row>
+                <Col>
+                  <PhoneVibrate className="iconStyle" size={80}/>
+                </Col>
+                <Col>
+                  <span className="label">Call:<p><a href="tel:2017882623">201-788-2623</a></p></span>
+                </Col>
+              </Row>
             </Col>
-            <Col lg={4}>
-              <EnvelopeCheck className="iconStyle" size={80}/>
-              <span className="labelEmail">Email:<p><a href="mailto:ken@antiqueslots.com">ken@antiqueslots.com</a></p></span>
+
+            <Col lg={3}>
+              <Row>
+                <Col>
+                  <EnvelopeCheck className="iconStyle" size={80}/>
+                </Col>
+                <Col>
+                  <span className="label">Email:<p><a href="mailto:ken@antiqueslots.com">ken@antiqueslots</a></p></span>
+                </Col>
+              </Row>
             </Col>
+
+            <Col lg={3}>
+              <Row>
+                <Col>
+                  <Facebook className="iconStyle" size={80}/>
+                </Col>
+                <Col>
+                  <span className="label">Facebook:<p><a href="https://facebook.com/antiqueslots">AntiqueSlots</a></p></span>
+                </Col>
+              </Row>
+            </Col>
+
           </Row>
           <p></p>
           <Row style={{padding:"0 20px 40px 20px"}}>
@@ -40,7 +73,7 @@ class Contact extends React.Component {
             </Col>
             <Col md={6}>
               <Card border={"dark"}>
-                <Form style={{padding:20}}>
+                <Form style={{padding:20}} method="POST" data-netlify="true">
                   <Row>
                     <Col md={6}>
                       <Form.Group className="mb-3" controlId="formPersonName" required>
@@ -59,6 +92,7 @@ class Contact extends React.Component {
                   <Form.Group className="mb-12" controlId="formMessage">
                     <textarea className="form-control" placeholder="Message" rows={10} cols={40}/>
                   </Form.Group>
+                  <br/>
                   <Button variant="primary" type="submit">
                     Submit
                   </Button>

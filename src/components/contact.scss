@@ -4,24 +4,17 @@ a {
         color: brown;
     }
 }
-.labelLocation{
-    margin: 20px 112px 0 auto;
-    float: right;
-    font-size: 18px;
-    
+
+.label{
+    float: left;
+    text-align: right;
+    transform: translate(-10%, 25%);
+    width: 100%;
 }
-.labelCall{
-    margin: 20px 80px 0 auto;
-    float: right;
-    font-size: 18px;
-}
-.labelEmail{
-    margin: 20px 30px 0 auto;
-    float: right;
-    font-size: 18px;
-}
+
 .iconStyle{
     padding: 15px;
     outline: 1px black;
     outline-style: solid;
+    float: left;
 }
