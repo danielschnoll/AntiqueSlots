@@ -25,7 +25,7 @@ class Contact extends React.Component {
                   <PinMap className="iconStyle" size={80}/>
                 </Col>
                 <Col>
-                  <span className="label">Location:<p>Mahwah, NJ</p></span>
+                  <span className="label">Location:<p><a href="https://www.google.com/maps/place/Mahwah,+NJ+07430/">Mahwah, NJ</a></p></span>
                 </Col>
               </Row>
             </Col>
@@ -47,7 +47,7 @@ class Contact extends React.Component {
                   <EnvelopeCheck className="iconStyle" size={80}/>
                 </Col>
                 <Col>
-                  <span className="label">Email:<p><a href="mailto:ken@antiqueslots.com">ken@antiqueslots</a></p></span>
+                  <span className="label">Email:<p><a href="mailto:ken@antiqueslots.com">ken@antiqueslots.com</a></p></span>
                 </Col>
               </Row>
             </Col>
@@ -58,7 +58,7 @@ class Contact extends React.Component {
                   <Facebook className="iconStyle" size={80}/>
                 </Col>
                 <Col>
-                  <span className="label">Facebook:<p><a href="https://facebook.com/antiqueslots">AntiqueSlots</a></p></span>
+                  <span className="label">Facebook:<p><a href="https://facebook.com/antiqueslots">AntiqueSlots FB</a></p></span>
                 </Col>
               </Row>
             </Col>
