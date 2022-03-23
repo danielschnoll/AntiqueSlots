@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# AntiqueSlots
+[![Netlify Status](https://api.netlify.com/api/v1/badges/57192f3b-ef31-46c8-bbea-5655362e10db/deploy-status)](https://app.netlify.com/sites/antiqueslots/deploys)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This git repo is for a static website for my Dad's antique slot machine collection.
 
-## Available Scripts
+It can be viewed here: https://antiqueslots.com
 
-In the project directory, you can run:
+## Creation
+A few years ago, I purchased a "modern antique" HTML/CSS/JS template from Envato. At the time, it was appropriate for my use case: I didn't know Angular or React, and I needed a website that I could put together myself. Over the course of a few days, I stitched it together by manually writing out the HTML for new sections and manually added images etc. 
 
-### `npm start`
+Unfortunately, the template I purchased was very outdated. Even in 2018, jQuery was old and being phased out in favor of newer, lighter alternatives such as React and Vue. As far as SEO goes, the site was not very mobile friendly despite being sold as such. Accessibility scores from Google Lighthouse were subpar at best (bad contrast etc), and due to the scripting bloat the site grew sluggish as more content was added. The supplied animations only dragged it down further. As the site stagnated, so did its PageRank. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+I knew a new, ground up solution was the only way forward. So, with some professional React experience under my belt, I set out to rebuild AntiqueSlots the way I saw fit. Thankfully, `create-react-app` is a really powerful and handy basis to start building an SPA that's installable as a PWA. I can mimic paged-applications with `React Routing`. React has out of the box support for lazy loading with `React.lazy`. I also made as many reusable components as possible: Header banners, the navbar and footer, a reusable grid container that took in the respective page's JSON file as `props` and dynamically builds each collection page, and an Image card component that encapsulates the data from the aforementioned JSON.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+I'm doing big things with AntiqueSlots. I have plans to make AntiqueSlots bigger and better than ever. Short term, I would like to add the following: Searching the image metadata with Algolia, an ecommerce shop powered by Stripe for purchasing machines, parts, and other stuff. Long term, I want this to be a go-to knowledge hub for everything vintage coin-op. I want to add a feature to document a machine's history. If its in our current collection, it will stay in the collections tab. If its not, it'll be moved to a separate Machine Lookup/history/museum page. For this, migrating the site to a SSG like Gatsby might be the best move. That way I can build out the page writeup in markdown and have it automatically parsed by Gatsby. 
 
-### `npm test`
+## Changelog
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### v3.1 (CURRENT)
+* Complete site rebuild
+* React based component level implementation
+  * Mobile friendly, PWA installable
+* Lazy Loading and Routing
+* Image metadata is now stored in a JSON file for easy parsing
+* New pictures taken on my iPhone 12
 
-### `npm run build`
+#### v2.2
+* Lazy Loading added (native support w fallback option, thanks DesignCourse!)
+* Added back Contact Form - Netfliy Forms is a godsend
+* Alt tags for all images
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### v2.1
+* Re-re-recompressed portfolio images (3rd time's the charm?), goal to get each page under 3mb
+* Fixed bug with navbar on mobile
+* Added meta tags to the head of each page for SEO
+* Compressed front page for faster load
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### v2.0
+* Hosting with Netlify, NetworkSolutions for domain
+* Removed prettyPhoto feature, including all related images from the assets/ directory (prettyPhoto was too buggy esp. with image resizing)
+* Temporarily removed image overlay, will add back with "wiki" feature
+* Compressed all images for optimal load speeds
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### v1.0
+* Remove "Additional Details" page links, too much to add in one version, TBA
+* Buttons for sorting by machine brand/style
+* Create a Machines for Sale page, content TBA
+* Create pages for Pinball, Slots, Trade Stimulators, Vendors, and Arcade
+* Add all parts from the Parts Bins in a Parts for Sale page
+* Re-photograph all machines in collection
+* Update nav bar 
+* Create an About Me page and Contact Me page
+* New logos
