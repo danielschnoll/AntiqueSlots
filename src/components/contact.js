@@ -78,20 +78,20 @@ class Contact extends React.Component {
                   <Row>
                     <Col md={6}>
                       <Form.Group className="mb-3" controlId="formPersonName" required>
-                        <input type="name" className="form-control" placeholder="Name" />
+                        <input type="text" name="name" className="form-control" placeholder="Name" />
                       </Form.Group>
                     </Col>
                     <Col md={6}>
                       <Form.Group className="mb-3" controlId="formPhoneNumber" required>
-                        <input type="tel" className="form-control" placeholder="Phone Number" />
+                        <input type="tel" name="phone" className="form-control" placeholder="Phone Number" />
                       </Form.Group>
                     </Col>
                   </Row>
                   <Form.Group className="mb-3" controlId="formEmailAddress">
-                    <input type="email" className="form-control" placeholder="Email" />
+                    <input type="email" name="email" className="form-control" placeholder="Email" />
                   </Form.Group>
                   <Form.Group className="mb-12" controlId="formMessage">
-                    <textarea className="form-control" placeholder="Message" rows={10} cols={40}/>
+                    <textarea name="message" className="form-control" placeholder="Message" rows={10} cols={40}/>
                   </Form.Group>
                   <br/>
                   <Button variant="primary" type="submit">
