@@ -1,4 +1,6 @@
 import React from "react";
+import Helmet from "react-helmet";
+
 import HalfHero from "../containers/halfHero";
 import GridContainer from "../containers/gridContainer";
 
@@ -13,10 +15,13 @@ class TradeStimulators extends React.Component {
 
   render() {
     return (
-      <div>
+      <>
+        <Helmet>
+          <title>Trade Stimulators | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+        </Helmet>
         <HalfHero title="TRADE STIMULATORS" image="/images/home/banner/img2.jpg" />
         <GridContainer data={this.state.data} isMachineForSale={false}/>
-      </div>
+      </>
     );
   }
 }

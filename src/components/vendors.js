@@ -1,4 +1,6 @@
 import React from "react";
+import Helmet from "react-helmet";
+
 import HalfHero from "../containers/halfHero";
 import GridContainer from "../containers/gridContainer";
 
@@ -13,10 +15,13 @@ class Vendors extends React.Component {
 
   render() {
     return (
-      <div>
+      <>
+        <Helmet>
+          <title>Vendors and Dispensers | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+        </Helmet>
         <HalfHero title="VENDORS AND DISPENSERS" image="/images/home/banner/img3.jpg" />
         <GridContainer data={this.state.data} isMachineForSale={false}/>
-      </div>
+      </>
     );
   }
 }

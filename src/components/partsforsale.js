@@ -1,7 +1,9 @@
 import React from "react";
+import Helmet from "react-helmet";
+import { Container } from "react-bootstrap";
+
 import HalfHero from "../containers/halfHero";
 import GridContainer from "../containers/gridContainer";
-import { Container } from "react-bootstrap";
 
 import './partsforsale.scss'
 
@@ -15,7 +17,10 @@ class PartsForSale extends React.Component {
 
   render() {
     return (
-      <div>
+      <>
+        <Helmet>
+          <title>Slot Machine Parts for Sale | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+        </Helmet>
         <HalfHero title="PARTS FOR SALE" image="/images/home/banner/img2.jpg" />
         <Container style={{paddingTop:"20px"}}>
           <h3 className="text-center">Everything currently in our inventory is listed for sale on this parts page. If it isn't pictured, we do not have it. 
@@ -23,7 +28,7 @@ class PartsForSale extends React.Component {
           </h3>
         </Container>
         <GridContainer data={this.state.data} />
-      </div>
+      </>
     );
   }
 }

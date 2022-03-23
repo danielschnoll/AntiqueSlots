@@ -1,17 +1,22 @@
 import React from "react";
-import HalfHero from "../containers/halfHero";
-import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
 import Carousel from "react-bootstrap/Carousel";
+import Helmet from "react-helmet";
+
+import HalfHero from "../containers/halfHero";
+import Container from "react-bootstrap/Container";
 
 import "./about.scss"
 
 class About extends React.Component {
   render() {
     return (
-      <div>
+      <>
+        <Helmet>
+          <title>About Us | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+        </Helmet>
         <HalfHero title="ABOUT US" image="/images/home/banner/img1.jpg"/>
         <Container style={{padding:"40px 20px 40px 20px"}}>
           <Row>
@@ -74,7 +79,7 @@ class About extends React.Component {
             </Col>
           </Row>
         </Container>
-      </div>
+      </>
     );
   }
 }

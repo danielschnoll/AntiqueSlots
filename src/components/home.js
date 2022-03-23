@@ -1,5 +1,7 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
+import Helmet from "react-helmet";
+
 import Hero from '../containers/hero'
 import GridContainer from "../containers/gridContainer";
 
@@ -14,13 +16,16 @@ class Home extends React.Component {
   
   render(){
     return (
-      <div>
+      <>
+        <Helmet>
+          <title>Home | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+        </Helmet>
         <Hero/>
         <Container style={{marginTop: 75, marginBottom: 75}} className="text-center">
           <h1>Recent Purchases</h1>
           <GridContainer data={this.state.data} isMachineForSale={false} isRecentPurchase={true}/>
         </Container>
-      </div>
+      </>
   );
   }
 }

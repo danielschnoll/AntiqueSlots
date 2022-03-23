@@ -6,6 +6,7 @@ import Button from "react-bootstrap/Button"
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
+import Helmet from "react-helmet";
 import { PhoneVibrate, PinMap, EnvelopeCheck, Facebook} from "react-bootstrap-icons";
 
 import "./contact.scss"
@@ -14,7 +15,10 @@ import "./contact.scss"
 class Contact extends React.Component {
   render() {
     return (
-      <div>
+      <>
+        <Helmet>
+          <title>Contact Us | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+        </Helmet>
         <HalfHero title="CONTACT US" image="/images/home/banner/img2.jpg" />
         <Container flex>
           <Row style={{padding:"40px 20px 40px 20px"}}>
@@ -102,7 +106,7 @@ class Contact extends React.Component {
             </Col>
           </Row>
         </Container>
-      </div>
+      </>
     );
   }
 }
