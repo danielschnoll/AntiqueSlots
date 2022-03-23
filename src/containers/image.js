@@ -8,7 +8,7 @@ class Image extends React.Component{
     render(){
         return(
             <Card border="light">
-                <Card.Img variant="top" src={this.props.link} alt={this.props.name}/>
+                <Card.Img variant="top" src={this.props.link} alt={this.props.name} loading={"lazy"}/>
                 <Card.Body>
                     <Card.Text style={{textAlign:"center"}}>
                         <span style={{fontWeight:"bold"}}>{this.props.name}</span>

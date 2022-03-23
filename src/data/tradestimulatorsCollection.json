@@ -151,6 +151,11 @@
             "link": "/images/tradestimulators/targetskillpennyshooter.jpeg",
             "metadata":["target", "skill", "penny", "shooter", "gun"]
         },
+        {
+            "name": "MADORSKY LINDY STRIKER SKILL GAME",
+            "link": "/images/tradestimulators/madorsky_lindystriker.jpeg",
+            "metadata":["madorsky", "lindy", "striker", "skill"]
+        },
 
         
         
@@ -272,14 +277,14 @@
             "metadata":["kitzmiller", "salesman", "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
         },
         {
-            "name": "GRISWOLD WHEEL OF FORTUNE \"SELF PAY\"",
-            "link": "/images/tradestimulators/griswoldwheeloffortune.jpeg",
-            "metadata":["griswold", "wheel", "fortune", "self pay", "wheel of fortune", "pointer", "dial"]
-        },
-        {
             "name": "TESTO REACTION METER",
             "link": "/images/tradestimulators/testoreactionmeter.jpeg",
             "metadata":["testo", "reaction", "meter", "coin dropper", "coin", "drop", "coin drop", "skill", "dropper"]
+        },
+        {
+            "name": "GRISWOLD WHEEL OF FORTUNE \"SELF PAY\"",
+            "link": "/images/tradestimulators/griswoldwheeloffortune.jpeg",
+            "metadata":["griswold", "wheel", "fortune", "self pay", "wheel of fortune", "pointer", "dial"]
         },
         {
             "name": "COMSTOCK PERFECTION COIN DROPPER",

@@ -13,6 +13,8 @@ const About = lazy(() => import('./components/about'));
 const Slots = lazy(() => import('./components/slots'));
 const Pinball = lazy(() => import('./components/pinball'));
 const TradeStimulators = lazy(() => import('./components/tradestimulators'));
+const Vendors = lazy(() => import('./components/vendors'))
+const ArcadeGames = lazy(() => import('./components/arcade'))
 const MachinesForSale = lazy(() => import('./components/machinesforsale'));
 const PartsForSale = lazy(() => import('./components/partsforsale'));
 const Contact = lazy(() => import('./components/contact'));
@@ -26,11 +28,16 @@ class App extends React.Component {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/AboutUs" element={<About />} />
+            
             <Route path="/SlotMachines" element={<Slots />} />
             <Route path="/PinballMachines" element={<Pinball />} />
             <Route path="/TradeStimulators" element={<TradeStimulators />} />
+            <Route path="/VendorsAndDispensers" element={<Vendors />} />
+            <Route path="/ArcadeGames" element={<ArcadeGames />} />
+
             <Route path="/MachinesForSale" element={<MachinesForSale />} />
             <Route path="/PartsForSale" element={<PartsForSale />} />
+
             <Route path="/Contact" element={<Contact />} />
           </Routes>
         <Footer/>

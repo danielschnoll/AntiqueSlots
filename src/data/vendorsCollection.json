@@ -1,0 +1,168 @@
+{
+    "list":[
+        {
+            "name": "COLUMBUS VENDOR CO. GUMBALL MACHINE",
+            "link": "/images/vendors/columbusvendorgumball.jpeg",
+            "metadata":["columbia", "vendor", "gum", "gumball"]
+        },
+        {
+            "name": "COAST VENDING BASKETBALL GUMBALL VENDOR",
+            "link": "/images/vendors/coastvendingbasketball.jpeg",
+            "metadata":["coast", "vending", "basketball", "gum", "gumball"]
+        },
+        {
+            "name": "ESSEX VENDING MACHINE CO. (PEANUT, GUM, CHOCOLATE, CANDY MULTI VENDOR)",
+            "link": "/images/vendors/essexvendingmachine.jpeg",
+            "metadata":["essex", "vending", "peanut", "gum", "chocolate", "candy"]
+        },
+        {
+            "name": "W. & T. AVERY EXPRESS GOLD CHANGER",
+            "link": "/images/vendors/goldchanger.jpg",
+            "metadata":["avery", "express", "gold", "changer"]
+        },
+        {
+            "name": "MANSFIELD CHOICE PEPSIN GUM VENDOR",
+            "link": "/images/vendors/mansfieldchoice.jpg",
+            "metadata":["mansfield", "choice", "pepsin", "gum"]
+        },
+
+
+        {
+            "name": "JENNINGS \"IN-THE-BAG\" PEANUT VENDOR",
+            "link": "/images/vendors/jennings_inthebag.jpeg",
+            "metadata":["jennings", "in the bag", "peanut"]
+        },
+        {
+            "name": "CLIMAX PEANUT VENDOR",
+            "link": "/images/vendors/climax_peanutvendor.jpeg",
+            "metadata":["climax", "peanut"]
+        },
+        {
+            "name": "EARLY WOODEN PULVER 1c GUM VENDOR",
+            "link": "/images/vendors/pulver_wood.jpeg",
+            "metadata":["pulver", "wooden", "1c", "gum"]
+        },
+        {
+            "name": "ZIPPO POCKET LIGHTER FILLING STATION",
+            "link": "/images/vendors/pocketlighter.jpeg",
+            "metadata":["zippo", "pocket", "lighter", "filling", "station"]
+        },
+        {
+            "name": "SMILIN' SAM FROM ALABAM' PEANUT VENDOR",
+            "link": "/images/vendors/smilinsam.jpeg",
+            "metadata":["smilin", "sam", "alabam", "peanut"]
+        },
+        {
+            "name": "ADVANCE MATCHBOOK VENDOR",
+            "link": "/images/vendors/advancematchbook.jpeg",
+            "metadata":["advance", "matchbook", "cigarette"]
+        },
+
+
+        {
+            "name": "PULVER 1c GUM VENDOR (YELLOW)",
+            "link": "/images/vendors/pulver_yellow.jpeg",
+            "metadata":["pulver", "1c", "gum"]
+        },
+
+
+        
+        {
+            "name": "CHICAGO GUM AND CANDY CO. 5c NATIONAL SELF-SERVICE GUM VENDOR MACHINE",
+            "link": "/images/vendors/national_selfservice_gumvendor.jpeg",
+            "metadata":["chicago", "gum", "candy", "5c", "national", "self service", "gumball"]
+        },
+        {
+            "name": "ADVANCE GUMBALL VENDOR",
+            "link": "/images/vendors/advance_gumballvendor.jpeg",
+            "metadata":["advance", "gumball", "gum"]
+        },
+        {
+            "name": "OAK MFG. LIL' LEAGUER BASEBALL GUM VENDOR",
+            "link": "/images/vendors/oakmfg_lilleaguer.jpeg",
+            "metadata":["oak", "lil leaguer", "baseball", "gum", "gumball"]
+        },
+
+
+        {
+            "name": "MUTOSCOPE OLD MILL GUM VENDOR",
+            "link": "/images/vendors/mutoscope_oldmill.jpeg",
+            "metadata":["mutoscope", "old", "mill", "gumball", "gum"]
+        },
+        {
+            "name": "COLUMBIA GUMBALL VENDOR",
+            "link": "/images/vendors/columbia_gumballvendor.jpeg",
+            "metadata":["columbia", "gumball", "gum"]
+        },
+        {
+            "name": "ZENO MFG. 1c CHEWING GUM VENDOR",
+            "link": "/images/vendors/zeno_1c_gum.jpeg",
+            "metadata":["zeno", "chewing", "gum"]
+        },
+        {
+            "name": "ZENO BUTTON COLLAR VENDOR",
+            "link": "/images/vendors/zeno_button_collar.jpeg",
+            "metadata":["zeno", "button", "collar"]
+        },
+        {
+            "name": "PRICE BUTTON COLLAR VENDOR",
+            "link": "/images/vendors/price_button_collar.jpeg",
+            "metadata":["price", "button", "collar"]
+        },
+        {
+            "name": "NORTHWESTERN SATURN 2000 ROCKET GUMBALL MACHINE",
+            "link": "/images/vendors/northwestern_saturn2000_rocket_gumball.jpeg",
+            "metadata":["northwestern", "saturn 2000", "rocket", "gumball", "gum"]
+        },
+
+
+        
+        {
+            "name": "NORRIS \"THE MASTER\" 1c/5c GUM & PEANUT VENDOR",
+            "link": "/images/vendors/master1c5cpeanut.jpeg",
+            "metadata":["norris", "master", "1c", "5c", "gum", "gumball", "peanut"]
+        },
+        {
+            "name": "ANDERSON STAMP VENDOR",
+            "link": "/images/vendors/anderson_stamp.jpeg",
+            "metadata":["anderson", "stamp"]
+        },
+        {
+            "name": "NORTHWESTERN MODEL 31 \"CONFECTION\" GUMBALL VENDOR",
+            "link": "/images/vendors/northwestern_model31_confection.jpeg",
+            "metadata":["northwester", "model 31", "confection", "gumball", "gum"]
+        },
+        {
+            "name": "NORRIS \"THE MASTER\" 1c GUM & PEANUT VENDOR",
+            "link": "/images/vendors/master_1cgumpeanut.jpeg",
+            "metadata":["norris", "master", "1c", "gum", "gumball", "peanut"]
+        },
+
+        
+        {
+            "name": "PULVER 1c GUM VENDOR (RED)",
+            "link": "/images/vendors/pulver_red.jpeg",
+            "metadata":["pulver", "1c", "gum"]
+        },
+        {
+            "name": "MANIKIN SCOOPY GUM VENDOR",
+            "link": "/images/vendors/manikin_scoopy.jpeg",
+            "metadata":["manikin", "scoopy", "gumball", "gum", "peanut"]
+        },
+        {
+            "name": "ASCO 5c \"GET 'EM HOT\" NUT VENDOR",
+            "link": "/images/vendors/asco_hotnut.jpeg",
+            "metadata":["asco", "5c", "get em hot", "em", "nut", "peanut"]
+        },
+        {
+            "name": "DIAMOND MATCHBOOK VENDOR",
+            "link": "/images/vendors/diamond_matchbook.jpeg",
+            "metadata":["diamond", "matchbook"]
+        },
+        {
+            "name": "ROY STRINGER \"EAT 'EM HOT\" NUT VENDOR",
+            "link": "/images/vendors/roystringer_eatemhot.jpeg",
+            "metadata":["roy", "stringer", "eat em hot", "em", "nut", "peanut"]
+        }
+    ]
+}
