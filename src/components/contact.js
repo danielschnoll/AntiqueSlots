@@ -73,7 +73,7 @@ class Contact extends React.Component {
             </Col>
             <Col md={6}>
               <Card border={"dark"}>
-                <Form style={{padding:20}} method="POST" data-netlify="true">
+                <Form style={{padding:20}} data-netlify="true">
                   <Row>
                     <Col md={6}>
                       <Form.Group className="mb-3" controlId="formPersonName" required>
