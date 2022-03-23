@@ -73,7 +73,7 @@ class Contact extends React.Component {
             </Col>
             <Col md={6}>
               <Card border={"dark"}>
-                <Form name="contact" style={{padding:20}} data-netlify="true">
+                <Form name="contact" style={{padding:20}} method="POST" data-netlify="true">
                 <input type="hidden" name="form-name" value="contact" />
                   <Row>
                     <Col md={6}>
