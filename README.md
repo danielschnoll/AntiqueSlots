@@ -5,17 +5,26 @@ This git repo is for a static website for my Dad's antique slot machine collecti
 
 It can be viewed here: https://antiqueslots.com
 
-
 ## Creation
-I purchased [this template](https://themeforest.net/item/monaco-vintage-multiconcept-html-template/16516842) from Envato. It has a nice modern yet vintage feel, and plenty of features I was looking for in a Gallery website, such as making use of CSS Grids for displaying images, image sorting by label, and that was mobile friendly. 
+A few years ago, I purchased a "modern antique" HTML/CSS/JS template from Envato. At the time, it was appropriate for my use case: I didn't know Angular or React, and I needed a website that I could put together myself. Over the course of a few days, I stitched it together by manually writing out the HTML for new sections and manually added images etc. 
 
-From start to finish, this project took about 4 days to complete with on/off work. Most of it was because I had to manually insert every image into the HTML, which is hard to do without a CMS. We use Netlify to host the site and NetworkSolutions for the domain.
+Unfortunately, the template I purchased was very outdated. Even in 2018, jQuery was old and being phased out in favor of newer, lighter alternatives such as React and Vue. As far as SEO goes, the site was not very mobile friendly despite being sold as such. Accessibility scores from Google Lighthouse were subpar at best (bad contrast etc), and due to the scripting bloat the site grew sluggish as more content was added. The supplied animations only dragged it down further. As the site stagnated, so did its PageRank. 
 
-I could have written a CLI tool like a Python HTML parser but I didn't want to risk any bugs with the parser that would cause the HTML layout to get messed up. As I add more pictures and pages to the site, this is very likely an option I will use as the site's HTML is already long and hard to track.
+I knew a new, ground up solution was the only way forward. So, with some professional React experience under my belt, I set out to rebuild AntiqueSlots the way I saw fit. Thankfully, `create-react-app` is a really powerful and handy basis to start building an SPA that's installable as a PWA. I can mimic paged-applications with `React Routing`. React has out of the box support for lazy loading with `React.lazy`. I also made as many reusable components as possible: Header banners, the navbar and footer, a reusable grid container that took in the respective page's JSON file as `props` and dynamically builds each collection page, and an Image card component that encapsulates the data from the aforementioned JSON.
+
+I'm doing big things with AntiqueSlots. I have plans to make AntiqueSlots bigger and better than ever. Short term, I would like to add the following: Searching the image metadata with Algolia, an ecommerce shop powered by Stripe for purchasing machines, parts, and other stuff. Long term, I want this to be a go-to knowledge hub for everything vintage coin-op. I want to add a feature to document a machine's history. If its in our current collection, it will stay in the collections tab. If its not, it'll be moved to a separate Machine Lookup/history/museum page. For this, migrating the site to a SSG like Gatsby might be the best move. That way I can build out the page writeup in markdown and have it automatically parsed by Gatsby. 
 
 ## Changelog
 
-#### v2.2 (CURRENT)
+### v3.1 (CURRENT)
+* Complete site rebuild
+* React based component level implementation
+  * Mobile friendly, PWA installable
+* Lazy Loading and Routing
+* Image metadata is now stored in a JSON file for easy parsing
+* New pictures taken on my iPhone 12
+
+#### v2.2
 * Lazy Loading added (native support w fallback option, thanks DesignCourse!)
 * Added back Contact Form - Netfliy Forms is a godsend
 * Alt tags for all images
@@ -42,8 +51,3 @@ I could have written a CLI tool like a Python HTML parser but I didn't want to r
 * Update nav bar 
 * Create an About Me page and Contact Me page
 * New logos
-
-## Future Features
-* Individual pages for each machine in collection
-* Archived Machines page
-* Better pictures?
