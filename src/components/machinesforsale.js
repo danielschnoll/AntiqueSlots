@@ -15,7 +15,7 @@ class MachinesForSale extends React.Component {
     return (
       <div>
         <HalfHero title="MACHINES FOR SALE" image="/images/home/banner/img3.jpg" />
-        <GridContainer data={this.state.data} isMachineForSale={true}/>
+        <GridContainer data={this.state.data} isMachineForSale={false}/>
       </div>
     );
   }
