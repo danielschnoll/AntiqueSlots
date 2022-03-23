@@ -47,7 +47,7 @@ class Contact extends React.Component {
                   <EnvelopeCheck className="iconStyle" size={80}/>
                 </Col>
                 <Col>
-                  <span className="label">Email:<p><a href="mailto:ken@antiqueslots.com">ken@antiqueslots</a></p></span>
+                  <span className="label">Email:<p><a href="mailto:kschnoll@aol.com">ken@antiqueslots</a></p></span>
                 </Col>
               </Row>
             </Col>

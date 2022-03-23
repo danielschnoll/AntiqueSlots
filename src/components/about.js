@@ -32,7 +32,7 @@ class About extends React.Component {
                   <Card.Header>Ken Schnoll</Card.Header>
                   <Card.Body>
                     <Card.Title>Cell: (201)-788-2623, feel free to <a href="sms:12017882623">Text</a> or <a href="tel:12017882623">Call</a></Card.Title>
-                    <Card.Title>Email: <a href="mailto:ken@antiqueslots.com">ken@antiqueslots.com</a></Card.Title>
+                    <Card.Title>Email: <a href="mailto:kschnoll@aol.com">ken@antiqueslots.com</a></Card.Title>
                     <Card.Title>Location: Mahwah, New Jersey</Card.Title>
                   </Card.Body>
                 </Card>
