@@ -26,6 +26,7 @@ class App extends React.Component {
       <Suspense fallback={<div>Loading...</div>}>
         <Navigation/>
           <Routes>
+            <Route path="*" element={<Home />} />
             <Route path="/" element={<Home />} />
             <Route path="/AboutUs" element={<About />} />
             
