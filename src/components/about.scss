@@ -1,5 +1,5 @@
 .intro{
-    font-weight: bold;
+    // font-weight: bold;
     font-size: 24px;
     @media only screen and (max-width: 400px){
         .intro{
@@ -9,9 +9,9 @@
 }
 .body{
     font-size: 24px;
-    font-weight: bold;
+    // font-weight: bold;
     @media only screen and (max-width: 400px){
-        .intro{
+        .body{
             font-size: 18px;
         }
     }
