@@ -78,17 +78,17 @@ class Contact extends React.Component {
                   <Row>
                     <Col md={6}>
                       <Form.Group className="mb-3" controlId="formPersonName" required>
-                        <Form.Control type="name" placeholder="Name" />
+                        <input type="name" className="form-control" placeholder="Name" />
                       </Form.Group>
                     </Col>
                     <Col md={6}>
                       <Form.Group className="mb-3" controlId="formPhoneNumber" required>
-                        <Form.Control type="tel" placeholder="Phone Number" />
+                        <input type="tel" className="form-control" placeholder="Phone Number" />
                       </Form.Group>
                     </Col>
                   </Row>
                   <Form.Group className="mb-3" controlId="formEmailAddress">
-                    <Form.Control type="email" placeholder="Email" />
+                    <input type="email" className="form-control" placeholder="Email" />
                   </Form.Group>
                   <Form.Group className="mb-12" controlId="formMessage">
                     <textarea className="form-control" placeholder="Message" rows={10} cols={40}/>
