@@ -15,7 +15,7 @@ class NotFound404 extends React.Component {
             </Col>
             <Col md={4}>
               <h1>{"404"}</h1>
-              <p>Uh-oh... It looks like the page you're looking for ain't here, chief!</p>
+              <p>Uh-oh... It looks like the page you're looking for ain't here, Chief!</p>
               <Button variant="danger" href="/">Go Back Home</Button>
             </Col>
             <Col md={4}>
