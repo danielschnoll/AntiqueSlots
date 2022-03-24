@@ -16,7 +16,7 @@ class Hero extends React.Component {
           <Carousel.Caption>
             <h1 className="headerTitle">ANTIQUE SLOTS</h1>
             <hr />
-            <h2 className="headerCaption">Buying and Selling Antique Slot Machines, Pinball Machines, and other Vintage Coin-Op for over 40 years</h2>
+            <h2 className="headerCaption">Buying and Selling Antique Slot Machines, Pinball Machines, and other Vintage Coin-Op for over 45 years</h2>
             <hr />
             <Button variant="outline-light" size="lg" href="/AboutUs">About Us</Button>
           </Carousel.Caption>
@@ -30,7 +30,7 @@ class Hero extends React.Component {
           <Carousel.Caption>
             <h1 className="headerTitle">ANTIQUE SLOTS</h1>
             <hr />
-            <h2 className="headerCaption">Buying and Selling Antique Slot Machines, Pinball Machines, and other Vintage Coin-Op for over 40 years</h2>
+            <h2 className="headerCaption">Buying and Selling Antique Slot Machines, Pinball Machines, and other Vintage Coin-Op for over 45 years</h2>
             <hr />
             <Button variant="outline-light" size="lg" href="/AboutUs">About Us</Button>
           </Carousel.Caption>
@@ -44,7 +44,7 @@ class Hero extends React.Component {
           <Carousel.Caption>
             <h1 className="headerTitle">ANTIQUE SLOTS</h1>
             <hr />
-            <h2 className="headerCaption">Buying and Selling Antique Slot Machines, Pinball Machines, and other Vintage Coin-Op for over 40 years</h2>
+            <h2 className="headerCaption">Buying and Selling Antique Slot Machines, Pinball Machines, and other Vintage Coin-Op for over 45 years</h2>
             <hr />
             <Button variant="outline-light" size="lg" href="/AboutUs">About Us</Button>
           </Carousel.Caption>
