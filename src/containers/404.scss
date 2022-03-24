@@ -1,0 +1,19 @@
+.row-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: inherit;
+    h1{
+        font-size: 120px;
+    }
+    p{
+        font-size: 20px;
+    }
+}
+
+.image404{
+    width:350px;
+    @media only screen and (max-width: 500px) {
+        width: 200px;
+    }
+}

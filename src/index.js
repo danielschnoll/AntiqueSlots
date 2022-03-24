@@ -18,6 +18,7 @@ const ArcadeGames = lazy(() => import('./components/arcade'))
 const MachinesForSale = lazy(() => import('./components/machinesforsale'));
 const PartsForSale = lazy(() => import('./components/partsforsale'));
 const Contact = lazy(() => import('./components/contact'));
+const NotFound404 = lazy(() => import('./containers/404'));
 
 class App extends React.Component {
   render(){
@@ -26,7 +27,7 @@ class App extends React.Component {
       <Suspense fallback={<div>Loading...</div>}>
         <Navigation/>
           <Routes>
-            <Route path="*" element={<Home />} />
+            <Route path="*" element={<NotFound404 />} />
             <Route path="/" element={<Home />} />
             <Route path="/AboutUs" element={<About />} />
             

@@ -14,7 +14,7 @@ class Navigation extends React.Component {
           <Navbar.Brand href="/">
             <img
               alt=""
-              src={"/logo.png"}
+              src={"/logo.webp"}
               width="30"
               height="30"
               className="d-inline-block align-top"
