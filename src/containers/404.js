@@ -7,7 +7,7 @@ class NotFound404 extends React.Component {
 
   render() {
     return (
-      <div class="bg">
+      <div className="bg">
         <Container style={{ height: "100vh" }}>
           <Row className="row-center text-center">
             <Col md={4}>
