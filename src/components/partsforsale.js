@@ -19,7 +19,7 @@ class PartsForSale extends React.Component {
     return (
       <>
         <Helmet>
-          <title>Slot Machine Parts for Sale | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+          <title>Slot Machine Parts for Sale | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
         <HalfHero title="PARTS FOR SALE" image="/images/home/banner/img2.jpg" />
         <Container style={{paddingTop:"20px"}}>

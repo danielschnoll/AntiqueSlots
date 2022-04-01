@@ -17,7 +17,7 @@ class Pinball extends React.Component {
     return (
       <>
         <Helmet>
-          <title>Vintage Pinball Machines | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+          <title>Vintage Pinball Machines | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
         <HalfHero title="PINBALL MACHINES" image="/images/home/banner/img2.jpg" />
         <GridContainer data={this.state.data} isMachineForSale={false}/>

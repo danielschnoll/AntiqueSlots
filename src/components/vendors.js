@@ -17,7 +17,7 @@ class Vendors extends React.Component {
     return (
       <>
         <Helmet>
-          <title>Vendors and Dispensers | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+          <title>Vendors and Dispensers | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
         <HalfHero title="VENDORS AND DISPENSERS" image="/images/home/banner/img3.jpg" />
         <GridContainer data={this.state.data} isMachineForSale={false}/>

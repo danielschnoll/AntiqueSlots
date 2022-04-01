@@ -17,7 +17,7 @@ class ArcadeGames extends React.Component {
     return (
       <>
         <Helmet>
-          <title>Vintage Arcade Games | Buying and Selling Antique Slot Machines and Vintage Coin-Op | Antique Slots</title>
+          <title>Vintage Arcade Games | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
         <HalfHero title="ARCADE GAMES" image="/images/home/banner/img1.jpg" />
         <GridContainer data={this.state.data} isMachineForSale={false}/>
