@@ -17,7 +17,7 @@ class About extends React.Component {
         <Helmet>
           <title>About Us | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
-        <HalfHero title="ABOUT US" image="/images/home/banner/img1.jpg"/>
+        <HalfHero title="ABOUT US" image="/images/home/banner/img2-half.jpeg"/>
         <Container style={{padding:"40px 20px 40px 20px"}}>
           <Row>
             <Col md={6}>

@@ -19,7 +19,7 @@ class Slots extends React.Component {
         <Helmet>
           <title>Antique Slot Machines | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
-        <HalfHero title="SLOT MACHINES" image="/images/home/banner/img1.jpg" />
+        <HalfHero title="SLOT MACHINES" image="/images/home/banner/img1-half.jpeg" />
         <GridContainer data={this.state.data} isMachineForSale={false}/>
       </>
     );

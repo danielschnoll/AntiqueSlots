@@ -16,14 +16,29 @@
             "metadata":["essex", "vending", "peanut", "gum", "chocolate", "candy"]
         },
         {
+            "name": "MANSFIELD CHOICE PEPSIN GUM VENDOR",
+            "link": "/images/vendors/mansfieldchoice.jpeg",
+            "metadata":["mansfield", "choice", "pepsin", "gum"]
+        },
+        {
             "name": "W. & T. AVERY EXPRESS GOLD CHANGER",
-            "link": "/images/vendors/goldchanger.jpg",
+            "link": "/images/vendors/goldchanger.jpeg",
             "metadata":["avery", "express", "gold", "changer"]
         },
         {
-            "name": "MANSFIELD CHOICE PEPSIN GUM VENDOR",
-            "link": "/images/vendors/mansfieldchoice.jpg",
-            "metadata":["mansfield", "choice", "pepsin", "gum"]
+            "name": "PULVER 1c GUM VENDOR (YELLOW)",
+            "link": "/images/vendors/pulver_yellow.jpeg",
+            "metadata":["pulver", "1c", "gum"]
+        },
+        {
+            "name": "PULVER 1c GUM VENDOR (RED)",
+            "link": "/images/vendors/pulver_red2.jpeg",
+            "metadata":["pulver", "1c", "gum"]
+        },
+        {
+            "name": "PULVER 1c GUM VENDOR (RED with SQUARE BODY)",
+            "link": "/images/vendors/pulver_red3.jpeg",
+            "metadata":["pulver", "1c", "gum"]
         },
 
 
@@ -59,14 +74,6 @@
         },
 
 
-        {
-            "name": "PULVER 1c GUM VENDOR (YELLOW)",
-            "link": "/images/vendors/pulver_yellow.jpeg",
-            "metadata":["pulver", "1c", "gum"]
-        },
-
-
-        
         {
             "name": "CHICAGO GUM AND CANDY CO. 5c NATIONAL SELF-SERVICE GUM VENDOR MACHINE",
             "link": "/images/vendors/national_selfservice_gumvendor.jpeg",

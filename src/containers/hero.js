@@ -10,8 +10,9 @@ class Hero extends React.Component {
         <Carousel.Item interval={5000}>
           <img
             className="image"
-            src="/images/home/banner/img1.jpg"
+            src="/images/home/banner/img1.jpeg"
             alt="Antique Slots - Antique Slot Machines - Watling Rol-a-Top, Mills Horsehead Bonus, Jennings Hunting Scene Chief"
+            style={{filter: "brightness(50%)"}}
           />
           <Carousel.Caption>
             <h1 className="headerTitle">ANTIQUE SLOTS</h1>
@@ -24,8 +25,9 @@ class Hero extends React.Component {
         <Carousel.Item interval={5000}>
           <img
             className="image"
-            src="/images/home/banner/img2.jpg"
+            src="/images/home/banner/img2.jpeg"
             alt="Antique Slots - Antique Slot Machines - Jennings Dutch Boy, Watling Treasury, Jennings 25c Golf Ball Dispenser"
+            style={{filter: "brightness(50%)"}}
           />
           <Carousel.Caption>
             <h1 className="headerTitle">ANTIQUE SLOTS</h1>
@@ -38,8 +40,9 @@ class Hero extends React.Component {
         <Carousel.Item interval={5000}>
           <img
             className="image"
-            src="/images/home/banner/img3.jpg"
+            src="/images/home/banner/img3.jpeg"
             alt="Antique Slots - Antique Slot Machines - Groetchen Pikes Peak, Bally Reliance, Mills 5c Around the World QT"
+            style={{filter: "brightness(50%)"}}
           />
           <Carousel.Caption>
             <h1 className="headerTitle">ANTIQUE SLOTS</h1>

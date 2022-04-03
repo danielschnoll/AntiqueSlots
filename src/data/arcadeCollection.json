@@ -36,6 +36,11 @@
             "metadata":["bartlett", "miami", "digger", "crane", "claw", "skill"]
         },
         {
+            "name": "WATLING FORTUNE TELLER SCALE",
+            "link": "/images/arcade/watlingfortunetellerscale.jpeg",
+            "metadata":["watling", "fortune", "teller", "scale"]
+        },
+        {
             "name": "GRAND NATIONAL",
             "link": "/images/arcade/grandnational.jpeg",
             "metadata":["grand", "national", "horse", "racing", "skill", "sports"]
