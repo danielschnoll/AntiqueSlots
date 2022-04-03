@@ -123,7 +123,11 @@
         },
 
 
-        
+        {
+            "name": "1c DIXIE CUP VENDOR (DIXIE-VORTEX CO.)",
+            "link": "/images/vendors/dixiecupvendor.jpeg",
+            "metadata":["dixie", "cup"]
+        },
         {
             "name": "NORRIS \"THE MASTER\" 1c/5c GUM & PEANUT VENDOR",
             "link": "/images/vendors/master1c5cpeanut.jpeg",

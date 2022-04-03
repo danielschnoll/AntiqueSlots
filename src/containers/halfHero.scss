@@ -1,5 +1,6 @@
 .react-parallax-bgimage{
-    filter: blur(1.5px) brightness(50%) !important;
+    filter: blur(3px) brightness(50%) !important;
+    -webkit-filter: blur(3px) brightness(50%) !important;
 }
 .insideStyles{
     color: white;
