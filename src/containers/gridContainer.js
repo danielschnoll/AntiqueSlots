@@ -17,6 +17,7 @@ class GridContainer extends React.Component {
                 purchase={machine.purchaseDate}
                 isMachineForSale={this.props.isMachineForSale}
                 isRecentPurchase={this.props.isRecentPurchase}
+                url={machine.url}
               />
             </Col>
           ))}

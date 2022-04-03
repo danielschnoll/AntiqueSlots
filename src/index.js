@@ -16,6 +16,8 @@ const TradeStimulators = lazy(() => import('./components/tradestimulators'));
 const Vendors = lazy(() => import('./components/vendors'))
 const ArcadeGames = lazy(() => import('./components/arcade'))
 const MachinesForSale = lazy(() => import('./components/machinesforsale'));
+const Poinsettia = lazy(() => import('./components/forSale/poinsettia'));
+const GrandStand = lazy(() => import('./components/forSale/grandstand'));
 const PartsForSale = lazy(() => import('./components/partsforsale'));
 const Contact = lazy(() => import('./components/contact'));
 const NotFound404 = lazy(() => import('./containers/404'));
@@ -38,6 +40,8 @@ class App extends React.Component {
             <Route path="/ArcadeGames" element={<ArcadeGames />} />
 
             <Route path="/MachinesForSale" element={<MachinesForSale />} />
+            <Route path="/MachinesForSale/poinsettia" element={<Poinsettia />} />
+            <Route path="/MachinesForSale/grandstand" element={<GrandStand />} />
             <Route path="/PartsForSale" element={<PartsForSale />} />
 
             <Route path="/Contact" element={<Contact />} />

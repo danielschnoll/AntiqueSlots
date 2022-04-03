@@ -9,11 +9,11 @@ class Image extends React.Component{
         return(
             <Card border="light">
                 <Card.Img variant="top" src={this.props.link} alt={this.props.name} loading={"lazy"}/>
-                <Card.Body>
+                    <Card.Body>
                     <Card.Text style={{textAlign:"center"}}>
                         <span style={{fontWeight:"bold"}}>{this.props.name}</span>
                         {this.props.isMachineForSale ?
-                        <a className="imageLink" href="/"><br/>More Information {<ArrowRight/>}</a> :
+                        <a className="imageLink" href={"/MachinesForSale/"+this.props.url}><br/>More Information {<ArrowRight/>}</a> :
                         ''}
                         {this.props.isRecentPurchase ?
                         <span className="recentPurchase"><br/>{this.props.purchase}</span> :
