@@ -19,7 +19,7 @@ class Contact extends React.Component {
         <Helmet>
           <title>Contact Us | Buying and Selling Coin Operated Antique Slot Machines | Antique Slots</title>
         </Helmet>
-        <HalfHero title="CONTACT US" image="/images/home/banner/img6-half.jpeg" />
+        <HalfHero title="CONTACT US" image="/images/home/banner/img1-half.jpeg" />
         <Container flex>
           <Row style={{padding:"40px 20px 40px 20px"}}>
 
