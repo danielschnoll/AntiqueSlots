@@ -11,9 +11,10 @@ footer{
     bottom: 0px;
     a{
         color: white;
-    }
-    a:hover{
-        color: brown;
+        transition: 0.3s;
+        &:hover{
+            color: brown;
+        }
     }
     p{
         margin:0

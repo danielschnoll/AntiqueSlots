@@ -21,7 +21,14 @@
     width: 450px;
     float: right;
 }
-@media only screen and (max-width: 450px){
+@media only screen and (max-width: 400px){
+    .aboutStyle{
+        width: 200px;
+        margin:0 auto;
+        float: none;
+    }
+}
+@media only screen and (min-width: 400px) and (max-width: 450px){
     .aboutStyle{
         width: 300px;
         margin:0 auto;

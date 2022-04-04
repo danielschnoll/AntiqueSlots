@@ -4,4 +4,8 @@
     right: 10px;
     color: black;
     z-index: 999;
+    transition: 0.3s;
+    &:hover{
+        color:salmon;
+    }
 }

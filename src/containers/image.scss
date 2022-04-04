@@ -2,6 +2,7 @@
     color: brown;
     font-style: italic;
     text-decoration: none;
+    transition: 0.3s;
     &.imageLink:hover{
         color: black;
     }

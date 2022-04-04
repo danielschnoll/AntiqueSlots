@@ -9,7 +9,20 @@
     text-align: center;
     top: 25vh;
 }
-@media only screen and (max-width: 450px){
+@media only screen and (max-width: 375px){
+    .headerTitle{
+        font-size: 40px;
+        letter-spacing: 0.1ch;
+    }
+    .headerCaption{
+        font-size: 18px;
+    }
+    .carousel-caption{
+        text-align: center;
+        top: 18vh;
+    }
+}
+@media only screen and (min-width:375px) and (max-width: 450px){
     .headerTitle{
         font-size: 55px;
         letter-spacing: 0.1ch;
