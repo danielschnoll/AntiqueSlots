@@ -3,9 +3,12 @@
     bottom: 25px;
     right: 10px;
     color: black;
+    background-color: white;
+    border-radius: 15px;
     z-index: 999;
     transition: 0.3s;
     &:hover{
+        transition: 0.3s;
         color:salmon;
     }
 }
