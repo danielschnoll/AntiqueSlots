@@ -14,12 +14,12 @@ class ForSaleContainer extends React.Component {
 		return (
 			<Container flex style={{ position: "relative" }}>
 				<Row style={{ padding: "40px 20px 40px 20px" }}>
-					<Col md={6}>
+					<Col lg={6}>
 						<Image
 							link={this.props.link}
 						/>
 					</Col>
-					<Col md={6}>
+					<Col lg={6}>
 						<Card border="light">
 							<p className="description">
 								{this.props.description}
