@@ -6,6 +6,7 @@ import Card from "react-bootstrap/Card";
 import { Truck, CurrencyDollar } from "react-bootstrap-icons";
 
 import Image from "./image";
+import BackToTop from "./backToTop";
 
 import "./forSaleGenericContainer.scss"
 
@@ -45,8 +46,8 @@ class ForSaleContainer extends React.Component {
 						</Col>
 					))}
 				</Row>
+			<BackToTop/>
 			</Container>
-
 		);
 	}
 }
