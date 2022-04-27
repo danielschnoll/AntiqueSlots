@@ -16,7 +16,13 @@ I'm doing big things with AntiqueSlots. I have plans to make AntiqueSlots bigger
 
 ## Changelog
 
-### v3.1 (CURRENT)
+### v3.2 (CURRENT)
+* For Sale page has actual posts on it
+* Did some reconfiguration of the styles to be more responsive
+* Replaced some images that weren't as good
+* Google and FB analytics tracking for ad purposes
+
+#### v3.1
 * Complete site rebuild
 * React based component level implementation
   * Mobile friendly, PWA installable
