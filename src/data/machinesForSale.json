@@ -1,17 +1,6 @@
 {
     "list": [
         {
-            "name": "MILLS 5c POINSETTIA",
-            "link": "/images/machinesForSale/poinsettia/poinsettia1.jpeg",
-            "url": "poinsettia",
-            "images": [
-                "/images/machinesForSale/poinsettia/poinsettia2.jpeg",
-                "/images/machinesForSale/poinsettia/poinsettia3.jpeg",
-                "/images/machinesForSale/poinsettia/poinsettia4.jpeg",
-                "/images/machinesForSale/poinsettia/poinsettia5.jpeg"
-            ]
-        },
-        {
             "name": "JENNINGS 5c GRANDSTAND",
             "link": "/images/machinesForSale/grandstand/jennings_grandstand.jpg",
             "url": "grandstand",
