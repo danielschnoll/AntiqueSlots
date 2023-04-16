@@ -23,7 +23,8 @@ class PartsForSale extends React.Component {
         </Helmet>
         <HalfHero title="PARTS FOR SALE" image="/images/home/banner/img6-half.jpeg" />
         <Container style={{paddingTop:"20px"}}>
-          <h3 className="text-center">Everything currently in our inventory is listed for sale on this parts page. If it isn't pictured, we do not have it. 
+          <h3 className="text-center">Everything currently in our inventory is listed for sale on this parts page. 
+            If a part is not pictured, we do not have it. If the Bin Letter/Number is no longer listed, it has been completely sold out. 
             Please <a href="/contact">contact us</a> if you are interested in purchasing parts. Include the Bin Name and Letter/Number in your inquiry. Thanks!
           </h3>
         </Container>
