@@ -101,7 +101,6 @@ class Contact extends React.Component {
                   <Button variant="primary" type="submit">
                     Submit
                   </Button>
-                  <div data-netlify-recaptcha="true"></div>
                 </Form>
               </Card>
             </Col>
