@@ -26,7 +26,7 @@ class ForSaleContainer extends React.Component {
 								{this.props.description}
 							</p>
 							<p className="description">
-								For questions, comments, or to arrange payment, feel free to contact me at <a href="mailto:kschnoll@aol.com">ken@antiqueslots.com</a> or text/call at <a href="sms:2017882623">201-788-2623</a>
+								For questions, comments, or to arrange payment, feel free to contact me at <a href="mailto:ken@antiqueslots.com">ken@antiqueslots.com</a> or text/call at <a href="sms:2017882623">201-788-2623</a>
 							</p>
 							<p className="priceandship">
 								<CurrencyDollar style={{ verticalAlign: "-.125em" }} />{this.props.price} USD
