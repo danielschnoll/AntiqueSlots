@@ -77,7 +77,7 @@ class Contact extends React.Component {
             </Col>
             <Col md={6}>
               <Card border={"dark"}>
-                <Form name="contact" style={{padding:20}} method="POST" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="bot-field">
+                <Form name="contact" style={{padding:20}} method="POST">
                 <input type="hidden" name="form-name" value="contact" />
                   <Row>
                     <Col md={6}>
@@ -98,7 +98,6 @@ class Contact extends React.Component {
                     <textarea name="message" className="form-control" placeholder="Message" rows={10} cols={40}/>
                   </Form.Group>
                   <br/>
-                  <div data-netlify-recaptcha="true"></div>
                   <Button variant="primary" type="submit">
                     Submit
                   </Button>
