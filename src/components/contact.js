@@ -77,8 +77,7 @@ class Contact extends React.Component {
             </Col>
             <Col md={6}>
               <Card border={"dark"}>
-                <Form name="contact" style={{padding:20}} method="POST" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="anti-spam">
-                <input type="hidden" name="anti-spam" value="contact" />
+                <Form name="contact" style={{padding:20}} method="POST" data-netlify="true" data-netlify-recaptcha="true" netlify-honeypot="bot-field">
                 <input type="hidden" name="form-name" value="contact" />
                   <Row>
                     <Col md={6}>
